@@ -203,7 +203,7 @@ class _ChatScreenState extends State<ChatScreen> {
                           onTap: () {
                             Get.snackbar(
                                 'Here om gonna add an option to send image',
-                                'sarangeee mauuu...',
+                                '//TODO//',
                                 snackPosition: SnackPosition.BOTTOM,
                                 backgroundColor: Colors.purple[100],
                                 animationDuration: Duration(seconds: 2));
